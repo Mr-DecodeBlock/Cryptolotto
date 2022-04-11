@@ -107,10 +107,3 @@ Please watch a tutorial video on [YouTube](https://www.youtube.com/watch?v=PyrtC
     }
 ```
 > Each wallet-participant gets `${uint _number}` when he joins the game. Random number determination depends on current block timestamp, block difficulty, block number and previous block hash. We set determination between min and max values. Additional conditions, in case something goes wrong, are set to prevent contract from sending Jackpot to invalid address.  
-
-# Frequently Asked Questions
-Please follow [this link](cryptolotto.cc/en/faq) to find Cryptolotto FAQs
-
-# Contact Support
-If you have any questions about this game please contact us at support@cryptolotto.cc
-
